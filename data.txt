@@ -3,10 +3,5 @@ b
 c
 hello
 123q
-hhhhh
 ...
 123
-
-git test
-
-git 111
